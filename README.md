@@ -1,3 +1,3 @@
 # superpositioniv
 
-Gropu project in Hackathon
+Grope project in Hackathon
