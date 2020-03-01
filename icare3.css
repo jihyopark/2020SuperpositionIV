@@ -1,0 +1,32 @@
+*{
+	box-sizing:border-box;
+}
+
+body {
+	background-color: white;
+	font-family: Verdana, sans-serif;
+}
+
+header {
+	background-color: #DB2B39;
+	text-align: center;
+	height: 90px;
+	background-repeat: no-repeat;
+
+}
+
+#design {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -5%;
+  margin-bottom: -5%;
+}
+
+footer {
+	background-color: #D2B48C;
+	font-size: .60em ;
+	text-align: center;
+	font-style: italic;
+}
