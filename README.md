@@ -2,6 +2,6 @@
 
 Grope project in Hackathon: Superposition iv(https://superposition.tech/)
 
-Date: 2/29/2020 - 3/1/2020
+Date: 2/29/2020 - 3/1/2020 /n
 Product name: iCare
 Group name: Carebears
