@@ -1,4 +1,4 @@
-# 2020_superposition_iv
+# 2020SuperpositionIV
 
 Grope project in Hackathon: Superposition iv(https://superposition.tech/)
 
